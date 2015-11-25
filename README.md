@@ -1,4 +1,3 @@
-# rpm_repo_manager
 Private RPM Repository manager. The manager creates yum repo on the same server, in `/var/www/html/repo`
 
 # Installation
