@@ -1,4 +1,4 @@
-Name: AjdukRpmRepo
+Name: repo
 Version: release
 Release: 1
 Summary: Michal Ajduks RPM repository configuration
