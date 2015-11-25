@@ -1,0 +1,5 @@
+[Michal_Ajduks Repo]
+name=MAjduk
+baseurl=http://rpms.ajduk.pl/repo
+enabled=1
+gpgcheck=0
